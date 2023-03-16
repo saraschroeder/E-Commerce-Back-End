@@ -17,7 +17,7 @@ This project was to build a back end for an e-commerce site. I used Express.js A
 
 ## Installation
 
-Start by cloning the repository on GitHub(make sure that both Node.js and MySQL is installed on your computer), then install the dependencies needed. Open up a fresh terminal and input "source schema.sql;" and "USE ecommerce_db;". Quit MySQL and "npm run seed", "node server.js". Finally you'll want to open up Insomnia core to GET, POST, PUT, and DELETE from each route. 
+Start by cloning the repository on GitHub(make sure that both Node.js and MySQL is installed on your computer), then install the dependencies needed. Open up a fresh terminal and input "source db/schema.sql;" and "USE ecommerce_db;". Quit MySQL and "npm run seed", "node server.js". Finally you'll want to open up Insomnia core to GET, POST, PUT, and DELETE from each route. 
 
 ## Dependencies
 
