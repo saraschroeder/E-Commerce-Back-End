@@ -81,7 +81,7 @@ router.delete('/:id', (req, res) => {
     }
     res.json(categoryData);
   })
-  .cathc(err => {
+  .catch(err => {
     console.log(err);
     res.status(500).json(err);
   });

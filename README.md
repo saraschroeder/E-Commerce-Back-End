@@ -27,9 +27,9 @@ npm install express sequelize mysql2
 
 ## Usage
 
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](./assets/images/Screenshot1.png)
+![alt text](./assets/images/Screenshot2.png)
+![alt text](./assets/images/Screenshot3.png)
 
 [Walkthrough]()
 
